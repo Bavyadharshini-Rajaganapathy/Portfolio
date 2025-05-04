@@ -19,6 +19,6 @@ export const ProjectList = [
         name: 'Agri Machinery INC',
         image: Proj3,
         skills: "React, HTML, TailwindCSS, Node.js, Express.js, MongoDB",
-        github: "https://github.com/lambrugeorge/face-recognition-brain",
+        github: "https://github.com/mathav-ramalingam/Agri_Machinery_INC",
     },
 ];
